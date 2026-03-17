@@ -1,4 +1,17 @@
-## Hi there 👋
+## ポートフォリオサイト
+https://rikunaganoma.com/
+
+## つくったもの
+| タイトル | 説明 | 使用技術 |
+|:-----------|:------------|:------------|
+| [Qiita Curator](https://qiita-curator.vercel.app/) | Qiita APIから記事を取得し、フィルタリング・キーワード検索・ブックマーク機能を組み込んだ簡易的なWebアプリです。 | Next.js（App Router）、TanStack Query、Jotai、shadcn/ui（TailwindCSS）、Storybook、 Vitest、Playwright |
+
+## 技術ブログ（これまで書いてきたものも含め）
+- [Content Layer APIで進化したAstro×microCMSのブログ構築](https://evoworx.dev/blog/microcms_astro-content-layer/)
+- [「動く」だけで満足しないためのJavaScript実装メモ](https://evoworx.dev/blog/javascript-design-notes/)
+- [Web制作会社のフロントエンドエンジニアが考えるJavaScript設計](https://evoworx.dev/blog/web-js-architecture/)
+- [ゼロから始めるWEBアクセシビリティ改善](https://evoworx.dev/blog/a11yfromzero-pt2/)
+
 
 <!--
 **fried-aji/fried-aji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
