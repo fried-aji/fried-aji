@@ -1,7 +1,7 @@
 ## ポートフォリオサイト
 https://rikunaganoma.com/
 
-## つくったもの
+## 個人でつくったもの
 | タイトル | 説明 | 使用技術 |
 |:-----------|:------------|:------------|
 | [Qiita Curator](https://qiita-curator.vercel.app/) | Qiita APIから記事を取得し、フィルタリング・キーワード検索・ブックマーク機能を組み込んだ簡易的なWebアプリです。 | Next.js（App Router）、TanStack Query、Jotai、shadcn/ui（TailwindCSS）、Storybook、 Vitest、Playwright |
