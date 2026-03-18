@@ -6,6 +6,49 @@
 |:-----------|:------------|:------------|------------|
 | [Qiita Curator](https://qiita-curator.vercel.app/) | Qiita APIから記事を取得し、フィルタリング・キーワード検索・ブックマーク機能を組み込んだ簡易的なWebアプリです。 | Next.js（App Router）、TanStack Query、Jotai、shadcn/ui（TailwindCSS）、Storybook、 Vitest、Playwright | ブックマーク管理は暫定でlocalStorageを使用しているため、Neon or Supabaseを用いたデータベース構築を検討中　|
 
+## 技術スタック
+
+### 言語
+| 名前 | 経験年数 | 備考 |
+|:-----------|:------------|:------------|
+| HTML | 4年 |  |
+| CSS　| 4年 | Sass、Tailwind CSSの経験も含む |
+| JavaScript | 4年 | TypeScriptの経験含む |
+| PHP　| 2年 | WordPressのテーマ開発レベル |
+
+### フレームワーク
+| 名前 | 経験年数 | 備考 |
+|:-----------|:------------|:------------|
+| Astro | 3年半 |  |
+| Nuxt.js　| 3ヶ月 | |
+| Vue.js | 1年 | |
+| Next.js　| 1ヶ月 | 個人開発を通して学習中 |
+| React　| 1ヶ月 | 個人開発を通して学習中 |
+| Alpine.js　| 2年半 | |
+
+### テスト
+| 名前 | 経験年数 | 備考 |
+|:-----------|:------------|:------------|
+| Vitest | 2ヶ月 | 個人開発を通して学習中 |
+| Playwright　| 1ヶ月 | 個人開発を通して学習中 |
+
+### CMS
+| 名前 | 経験年数 | 備考 |
+|:-----------|:------------|:------------|
+| WordPress | 2年 | |
+| microCMS　| 6ヶ月 | |
+
+### AI活用
+| 名前 | 経験年数 | 備考 |
+|:-----------|:------------|:------------|
+| Claude Code | ６ヶ月 | 実務・個人問わずメインで活用中 |
+| Github Copilot　| 2年 | |
+| Cursor　| 2ヶ月 | 個人開発を通して学習中 |
+
+### その他
+|:-----------|:------------|:------------|
+| Docker　| 2年 | WordPressローカル環境の構築 |
+
 ## 技術ブログ（これまで書いてきたものも含め）
 - [Content Layer APIで進化したAstro×microCMSのブログ構築](https://evoworx.dev/blog/microcms_astro-content-layer/)
 - [「動く」だけで満足しないためのJavaScript実装メモ](https://evoworx.dev/blog/javascript-design-notes/)
