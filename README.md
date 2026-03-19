@@ -4,7 +4,7 @@
 ## 個人でつくったもの
 | タイトル | 説明 | 使用技術 | 備考 |
 |:-----------|:------------|:------------|------------|
-| [Qiita Curator](https://qiita-curator.vercel.app/) | Qiita APIから記事を取得し、フィルタリング・キーワード検索・ブックマーク機能を組み込んだ簡易的なWebアプリです。 | Next.js（App Router）、TanStack Query、hadcn/ui（TailwindCSS）、Storybook、 Vitest、Playwright、Prisma（Prisma Postgres)、Auth.js | |
+| [Qiita Curator](https://qiita-curator.vercel.app/) | Qiita APIから記事を取得し、フィルタリング・キーワード検索・ブックマーク機能を組み込んだ簡易的なWebアプリです。 | Next.js、TanStack Query、shadcn/ui、TailwindCSS、Storybook、 Vitest、Playwright、Prisma（Prisma Postgres)、Auth.js | |
 
 ## 技術スタック
 
