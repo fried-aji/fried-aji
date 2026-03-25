@@ -49,6 +49,7 @@
 | 名前 | 経験年数 | 備考 |
 |:-----------|:------------|:------------|
 | Docker　| 2年 | WordPressローカル環境の構築 |
+| GitHub Actions　| 1ヶ月 | 個人開発を通して学習中 |
 
 ## 技術ブログ（これまで書いてきたものも含め）
 - [Content Layer APIで進化したAstro×microCMSのブログ構築](https://evoworx.dev/blog/microcms_astro-content-layer/)
